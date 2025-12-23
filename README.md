@@ -23,5 +23,13 @@ To use Vive Tracker while the headset is not HTC or Vive Elite, SteamVR will be 
 [Hand Tracking with Unity XR Interaction Toolkit](https://youtu.be/mJ3fygb9Aw0?si=npuDh1UBi6DRD1Hu)<br>
 [Mixed Reality with Unity XR Toolkit](https://youtu.be/nyFRuN1CYAI?si=-5Kq-9i3BR2QsIUG)<br>
 [Vive Tracker Implementation using OpenXR in Unity](https://youtu.be/Tw5LbNLW9Q4?si=BZi8A86JWeV9qGT7)<br>
-[AR Foudation Image Tracking](https://youtu.be/stKzVqvRwOQ?si=HVulbMQEGqivKrwy)<br>
+[AR Foundation Image Tracking](https://youtu.be/stKzVqvRwOQ?si=HVulbMQEGqivKrwy)<br>
 [Concurrent Controller and Hand Tracking with Meta SDK](https://youtu.be/ShIeLRZbUEA?si=iAs70ueK-nL4w7Aa)<br>
+
+---
+### Phase 2: Meta XR
+Get All-in-One;
+Add Poke Interaction to the canvas;
+...
+
+## Other things occured
